@@ -4,7 +4,8 @@ import todo from "../assets/todo.png";
 import shopping from "../assets/shopping.png";
 import game from "../assets/game.png";
 import netflix from "../assets/netflix.png";
-import sweet from "../assets/sweet.png";
+// import sweet from "../assets/sweet.png";
+import tracker from "../assets/tracker.png";
 import libas from "../assets/libas.png";
 import weather from "../assets/weather.png";
 
@@ -66,15 +67,22 @@ const card = [
   },
   {
     id: 3,
+    logo: tracker,
+    name: "Expense Tracker",
+    link: "https://www.linkedin.com/posts/poonam-singh-54443b2b0_codxo-webdevlopher-frontend-activity-7240261507882651648-3mVR?utm_source=share&utm_medium=member_desktop",
+    git: "https://github.com/poonamsingh24/CODXO-expense-tracker",
+    p: "I'm thrilled to share my latest project,E-commerce  Interactive, interfaces using React, Tailwind CSS, HTML, and JavaScript.",
+  },
+  {
+    id: 4,
     logo: shopping,
     name: "Portfolio",
-    name: "Shoppings Wings web",
     link: "https://www.linkedin.com/posts/poonam-singh-54443b2b0_react-tailwindcss-html-activity-7236619487339323393-YSpk?utm_source=share&utm_medium=member_desktop",
     git: "https://github.com/poonamsingh24/shopping-wings",
     p: "I'm thrilled to share my latest project,E-commerce  Interactive, interfaces using React, Tailwind CSS, HTML, and JavaScript.",
   },
   {
-    id: 4,
+    id: 5,
     logo: game,
     name: "Portfolio",
     name: "Games",
@@ -83,7 +91,7 @@ const card = [
     p: "Get Ready to Play! Explore, play, and provide feedback! I'm always looking to improve and grow as a developer.",
   },
   {
-    id: 5,
+    id: 6,
     logo: libas,
     name: "Portfolio",
     name: "Libas",
@@ -92,7 +100,7 @@ const card = [
     p: "I'm thrilled to share my latest project, Libas E-commerce Website, built using React, Tailwind CSS, and HTML! ",
   },
   {
-    id: 6,
+    id: 7,
     logo: netflix,
     name: "Portfolio",
     name: "Netflix clone",
