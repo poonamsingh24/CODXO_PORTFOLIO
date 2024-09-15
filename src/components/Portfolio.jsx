@@ -76,7 +76,7 @@ const card = [
   {
     id: 4,
     logo: shopping,
-    name: "Portfolio",
+    name: "Shopping-Wings",
     link: "https://www.linkedin.com/posts/poonam-singh-54443b2b0_react-tailwindcss-html-activity-7236619487339323393-YSpk?utm_source=share&utm_medium=member_desktop",
     git: "https://github.com/poonamsingh24/shopping-wings",
     p: "I'm thrilled to share my latest project,E-commerce  Interactive, interfaces using React, Tailwind CSS, HTML, and JavaScript.",
